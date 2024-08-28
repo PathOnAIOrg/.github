@@ -8,4 +8,6 @@ PathOn.ai is an open-source AI research organization focused on advancing AI age
 - [AI_MLE](https://github.com/PathOnAI/AI_MLE), a Library for Agent-based Virtual Machine Learning Engineer. To be released.
 - [Natural Language Shell](https://github.com/PathOnAI/NLS), takes a natural language command, and directly calls into the OS. To be released.
 
-[Check out our Discord Here](https://discord.gg/bb9RraBX)
+
+## Check out our Discord Here
+<a href='https://discord.gg/bb9RraBX'><img src='https://img.shields.io/badge/Community-Discord-8A2BE2'></a>
