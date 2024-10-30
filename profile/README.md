@@ -1,5 +1,5 @@
 ## Hi there 👋
-PathOn.ai is an open-source AI research organization focused on advancing AI agent technology. Our mission is to democratize state-of-the-art AI methods, making them more accessible and easier to implement. We provide a flexible framework that empowers developers to create their own AI agents efficiently.
+PathOn.ai is an open-source non-profit AI research organization focused on advancing AI agent technology. Our mission is to democratize state-of-the-art AI methods, making them more accessible and easier to implement. We provide a flexible framework that empowers developers to create their own AI agents efficiently.
 
 ## Current Projects
 - [LiteMultiAgent](https://github.com/PathOnAI/LiteMultiAgent), a Library for LLM-based multi-agent applications.
