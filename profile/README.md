@@ -6,4 +6,4 @@ PathOn.ai is an open-source AI research organization focused on advancing AI age
 - [LiteWebAgent](https://github.com/PathOnAI/LiteWebAgent), a Library for LLM-based web-agent applications. 
 - [awesome ai agents](https://github.com/PathOnAI/awesome-ai-agents), Collection of Materials on AI Agents.
 - [Natural Language Terminal](https://github.com/PathOnAI/NaturalLanguageTerminal), takes a natural language command, and directly calls into the OS.
-- [LiteGUIgent](https://github.com/PathOnAI/LiteGUIAgent), a Library for VLM-based computer control agent. To be released.
+- [LiteGUIAgent](https://github.com/PathOnAI/LiteGUIAgent), a Library for VLM-based computer control agent. To be released.
