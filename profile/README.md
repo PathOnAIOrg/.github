@@ -8,6 +8,19 @@ PathOn.ai is an open-source non-profit AI research organization focused on advan
 - [Natural Language Terminal](https://github.com/PathOnAI/NaturalLanguageTerminal), takes a natural language command, and directly calls into the OS.
 - [LiteGUIAgent](https://github.com/PathOnAI/LiteGUIAgent), a Library for VLM-based computer control agent. To be released.
 
+
+## Stable Diffusion 3.5 Worker Collection
+A collection of the newest family of diffusion models by Stability AI, ready for serverless direct deployment on RunPod alon
+
+| Type | Worker                                                                                | Docker Image                                                                                    | API Docs                                                         |
+|------|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| 🖼️   | [AUTOMATIC111](https://github.com/runpod-workers/worker-a1111)                        | [runpod/ai-api-a1111](https://hub.docker.com/r/runpod/ai-api-a1111)                             | Not Available                                                    |
+| 🖼️   | [Stable Diffusion v1.5](https://github.com/runpod-workers/worker-stable_diffusion_v1) | [runpod/ai-api-stable-diffusion-v1](https://hub.docker.com/r/runpod/ai-api-stable-diffusion-v1) | Not Available   
+                                       |
+| 🖼️   | [Stable Diffusion v2](https://github.com/runpod-workers/worker-stable_diffusion_v2)   | [runpod/ai-api-stable-diffusion-v2](https://hub.docker.com/r/runpod/ai-api-stable-diffusion-v2) | Not Available   
+                                       |
+                                       
+
 <p align="left">
     <a href="https://discord.gg/XwvEyVhdw3">
         <img src="https://img.shields.io/badge/Community-Discord-8A2BE2" height="28"></a>
