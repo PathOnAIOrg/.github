@@ -10,16 +10,16 @@ PathOn.ai is an open-source non-profit AI research organization focused on advan
 
 
 ## Stable Diffusion 3.5 Worker Collection
-A collection of the newest family of diffusion models by Stability AI, ready for serverless direct deployment on RunPod alon
+A collection of the newest family of diffusion models by Stability AI, optimized for RunPod use as serverless workers. Prebuilt images are also available for one click deploy.
 
-| Type | Worker                                                                                | Docker Image                                                                                    | API Docs                                                         |
-|------|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-| 🖼️   | [AUTOMATIC111](https://github.com/runpod-workers/worker-a1111)                        | [runpod/ai-api-a1111](https://hub.docker.com/r/runpod/ai-api-a1111)                             | Not Available                                                    |
-| 🖼️   | [Stable Diffusion v1.5](https://github.com/runpod-workers/worker-stable_diffusion_v1) | [runpod/ai-api-stable-diffusion-v1](https://hub.docker.com/r/runpod/ai-api-stable-diffusion-v1) | Not Available   
-                                       |
-| 🖼️   | [Stable Diffusion v2](https://github.com/runpod-workers/worker-stable_diffusion_v2)   | [runpod/ai-api-stable-diffusion-v2](https://hub.docker.com/r/runpod/ai-api-stable-diffusion-v2) | Not Available   
-                                       |
-                                       
+| Type | Worker | Docker Image | API Docs |
+|------|---------|--------------|-----------|
+| 🖼️ | [Stable Diffusion v3.5 Medium](https://github.com/PathOnAI/runpod-stable-diffusion-3.5-medium-worker) | [thehunter911/stbldiff3.5-medium-runpod-serverless](https://hub.docker.com/repository/docker/thehunter911/stbldiff3.5-medium-runpod-serverless/general) | Not Available |
+| 🖼️ | [Stable Diffusion v3.5 Large](https://github.com/PathOnAI/runpod-stable-diffusion-3.5-large-worker) | [thehunter911/stbldiff3.5-large-runpod-serverless](https://hub.docker.com/repository/docker/thehunter911/stbldiff3.5-large-runpod-serverless/general) | Not Available |
+| 🖼️ | [Stable Diffusion v3.5 Large Turbo](https://github.com/PathOnAI/runpod-stable-diffusion-3.5-large-turbo-worker) | [thehunter911/stbldiff3.5-large-turbo-runpod-serverless](https://hub.docker.com/repository/docker/thehunter911/stbldiff3.5-large-turbo-runpod-serverless/general) | Not Available |
+
+<p></p>
+<p></p>
 
 <p align="left">
     <a href="https://discord.gg/XwvEyVhdw3">
