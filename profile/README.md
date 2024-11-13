@@ -12,6 +12,20 @@ PathOn.ai is an open-source non-profit AI research organization focused on advan
 ## Stable Diffusion 3.5 Worker Collection
 A collection of the newest family of diffusion models by Stability AI, optimized for RunPod use as serverless workers. Prebuilt images are also available for one click deploy.
 
+### ⚠️ Important ⚠️ : When using the docker image directly in RunPod, append :dev to the container name. So 
+
+```bash
+thehunter911/stbldiff3.5-medium-runpod-serverless:dev
+```
+
+instead of 
+
+```bash
+thehunter911/stbldiff3.5-medium-runpod-serverless
+```
+
+due to a RunPod bug.
+
 | Type | Worker | Docker Image | API Docs |
 |------|---------|--------------|-----------|
 | 🖼️ | [Stable Diffusion v3.5 Medium](https://github.com/PathOnAI/runpod-stable-diffusion-3.5-medium-worker) | [thehunter911/stbldiff3.5-medium-runpod-serverless](https://hub.docker.com/repository/docker/thehunter911/stbldiff3.5-medium-runpod-serverless/general) | Not Available |
