@@ -1,13 +1,14 @@
 ## Hi there 👋
 PathOn.ai is an open-source non-profit AI research organization focused on advancing AI agent technology. Our mission is to democratize state-of-the-art AI methods, making them more accessible and easier to implement. We provide a flexible framework that empowers developers to create their own AI agents efficiently.
 
-## Current Projects
+## 1. Current Projects
 - [LiteMultiAgent](https://github.com/PathOnAI/LiteMultiAgent), a Library for LLM-based multi-agent applications.
 - [LiteWebAgent](https://github.com/PathOnAI/LiteWebAgent), a Library for LLM-based web-agent applications. 
 - [awesome ai agents](https://github.com/PathOnAI/awesome-ai-agents), Collection of Materials on AI Agents.
 - [Natural Language Terminal](https://github.com/PathOnAI/NaturalLanguageTerminal), takes a natural language command, and directly calls into the OS.
 - [LiteGUIAgent](https://github.com/PathOnAI/LiteGUIAgent), a Library for VLM-based computer control agent. To be released.
 
+## 2. Join the community!
 <p align="left">
     <a href="https://discord.gg/XwvEyVhdw3">
         <img src="https://img.shields.io/badge/Community-Discord-8A2BE2" height="28"></a>
@@ -17,8 +18,8 @@ PathOn.ai is an open-source non-profit AI research organization focused on advan
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/PathOnAI?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-## Resources
-### 1. Stable Diffusion 3.5 Worker Collection
+## 3. Resources
+### 3.1 Stable Diffusion 3.5 Worker Collection
 A collection of the newest family of diffusion models by Stability AI, optimized for RunPod use as serverless workers. Prebuilt images are also available for one click deploy.
 
 **⚠️ Important ⚠️ : When using the docker image directly in RunPod, append :dev to the container name.**
