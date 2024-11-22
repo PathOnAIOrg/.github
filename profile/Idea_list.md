@@ -5,4 +5,4 @@ Similar to a web agent, but this would be a VLM-based device control agent that 
 
 ## 2. Generative Agent-based modeling
 
-## 3. LLM agent for Embodied AI
+## 3. Language agent for Embodied AI
