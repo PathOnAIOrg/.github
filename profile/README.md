@@ -20,7 +20,7 @@ PathOn.ai is an open-source non-profit AI research organization focused on advan
 </p>
 
 ## 3. Resources
-### 3.1 Stable Diffusion 3.5 Worker Collection
+### Stable Diffusion 3.5 Worker Collection
 A collection of the newest family of diffusion models by Stability AI, optimized for RunPod use as serverless workers. Prebuilt images are also available for one click deploy.
 
 **⚠️ Important ⚠️ : When using the docker image directly in RunPod, append :dev to the container name.**
