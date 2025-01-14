@@ -3,7 +3,7 @@ PathOn.ai is an open-source non-profit AI research organization focused on advan
 
 ## 1. Current Projects
 - [LiteGUIAgent](https://github.com/PathOnAI/LiteGUIAgent), a Library for VLM-based computer control agent. To be released.
-- [LLMWebAgentTreeSearch](https://github.com/PathOnAI/LLMWebAgentTreeSearch). To be released.
+- [LiteWebAgentTreeSearch]([https://github.com/PathOnAI/LLMWebAgentTreeSearch](https://github.com/PathOnAI/LiteWebAgentTreeSearch)). To be released.
 
 ## 2. Past Projects
 - [LiteMultiAgent](https://github.com/PathOnAI/LiteMultiAgent), a Library for LLM-based multi-agent applications.
