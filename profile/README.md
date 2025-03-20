@@ -14,10 +14,17 @@ PathOnAI.org is an independent, non-profit organization with a mission to advanc
 ## 1. Publications
 
 - **VisualTreeSearch: An Intuitive Interface for Understanding Web Agent Decision Processes**  
-  📝 Danqing Zhang, Yuanli Wang, Shiying He, Jingyi Ni, Junyu Cao  
-  _Author list may be modified._  
+  📝 Danqing Zhang, Yuanli Wang, Shiying He, Yaoyao Qian, Jingyi Ni, Junyu Cao  
+  *(Author list may be modified)*  
   🔜 **[To be submitted]**
-
+- **Web Agent Evaluation Metrics**  
+  📝 Shiying He, Yaoyao Qian, Danqing Zhang, Yuanli Wang  
+  *(Paper title and author list may be modified)*  
+  🔜 **[Work in progress]**
+- **3D Embodied Agent benchmark in Roblox Games**  
+  📝 Danqing Zhang, Zhuo Tao  
+  *(Paper title and author list may be modified)*  
+  🔜 **[Work in progress]**
 - **LiteWebAgent: The Open-Source Suite for VLM-Based Web-Agent Applications**  
   📝 Danqing Zhang, Balaji Rama, Jingyi Ni, Shiying He, Fu Zhao, Kunyu Chen, Arnold Chen, Junyu Cao  
   📄 **NAACL'25: 2025 Annual Conference of the North American Chapter of the Association for Computational Linguistics – System Demonstration Track**  
