@@ -14,17 +14,15 @@ PathOnAI.org is an independent, non-profit organization with a mission to advanc
 ## 1. Publications
 
 - **VisualTreeSearch: An Intuitive Interface for Understanding Web Agent Decision Processes**  
-  📝 Danqing Zhang, Yuanli Wang, Shiying He, Yaoyao Qian, Jingyi Ni, Junyu Cao  
-  *(Author list may be modified)*  
-  🔜 **[To be submitted]**
+  📝 Danqing Zhang, Yaoyao Qian, Yuanli Wang, Shiying He, Jingyi Ni, Junyu Cao   
+  🔜 **[Under review]**
 - **Web Agent Evaluation Metrics**  
   📝 Shiying He, Yaoyao Qian, Danqing Zhang, Yuanli Wang  
   *(Paper title and author list may be modified)*  
   🔜 **[Work in progress]**
-- **3D Embodied Agent benchmark in Roblox Games**  
-  📝 Danqing Zhang, Zhuo Tao  
-  *(Paper title and author list may be modified)*  
-  🔜 **[Work in progress]**
+- **LiteMultiAgent: The Library for LLM-based multi-agent applications**  
+  📝 Danqing Zhang, Jingyi NI   
+  🔜 **[Arxiv paper]**
 - **LiteWebAgent: The Open-Source Suite for VLM-Based Web-Agent Applications**  
   📝 Danqing Zhang, Balaji Rama, Jingyi Ni, Shiying He, Fu Zhao, Kunyu Chen, Arnold Chen, Junyu Cao  
   📄 **NAACL'25: 2025 Annual Conference of the North American Chapter of the Association for Computational Linguistics – System Demonstration Track**  
@@ -32,22 +30,21 @@ PathOnAI.org is an independent, non-profit organization with a mission to advanc
 
 ## 2. Current Projects
 
-- **[Lite Web Agent Tree Search](https://github.com/PathOnAI/LiteWebAgentTreeSearch)**  
-  🌐 Enhancing web agents with tree search algorithms for improved decision-making and task completion.
+- **[VisualTreeSearch](https://github.com/PathOnAI/VisualTreeSearch-Demo)**  
+  🌐 Understanding Web Agent Test-time Scaling.
 
+## 3. Past Projects
 - **[ARC AGI Experiments](https://github.com/PathOnAI/arc-agi-experiments)**  
   🧠 Exploring advanced reasoning capabilities in artificial intelligence systems.
 
 - **[Awesome ARC AGI](https://github.com/PathOnAI/awesome-arc-agi)**  
   📚 Collection of resources on advanced reasoning and cognitive architectures for AGI.
-
+  
 - **[3D Embodied Agent](https://github.com/PathOnAI/roblox-game-ai-backend)**  
   🎮 Developing embodied AI agents for Roblox games.
 
 - **[Awesome 3D Embodied AI](https://github.com/PathOnAI/awesome-3d-embodied-ai)**  
   📚 Curated list of resources for 3D embodied AI research and development.
-
-## 3. Past Projects
 
 - **[LiteMultiAgent](https://github.com/PathOnAI/LiteMultiAgent)**  
   👥 A library for LLM-based multi-agent applications.
