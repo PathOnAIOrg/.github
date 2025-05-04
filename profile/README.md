@@ -14,7 +14,7 @@ PathOnAI.org is an independent, non-profit organization with a mission to advanc
 ## 1. Publications
 
 - **VisualTreeSearch: An Intuitive Interface for Understanding Web Agent Decision Processes**  
-  📝 Danqing Zhang, Yaoyao Qian, Yuanli Wang, Shiying He, Jingyi Ni, Junyu Cao   
+  📝 Danqing Zhang, Yaoyao Qian, Shiying He, Yuanli Wang, Jingyi Ni, Junyu Cao   
   🔜 **[Under review]**
 - **Web Agent Evaluation Metrics**  
   📝 Shiying He, Yaoyao Qian, Danqing Zhang, Yuanli Wang  
