@@ -4,7 +4,7 @@ PathOnAI.org is an independent, non-profit organization with a mission to advanc
 ## Join the community!
 <p align="left">
     <a href="https://discord.gg/UTxjyNwTeP">
-        <img src="https://img.shields.io/badge/Community-Discord-8A2BE2" height="28"></a>
+        <img src="https://dcbadge.limes.pink/api/server/UTxjyNwTeP" height="28"></a>
     <a href="https://github.com/PathOnAI?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/PathOnAI?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <a href="https://github.com/PathOnAI?tab=repositories&sort=stargazers">
