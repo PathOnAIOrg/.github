@@ -1,5 +1,5 @@
 ## Hi there 👋
-PathOnAI.org is an 501(c)(3) non-profit, open source non-profit organization with a mission to advance open-source development and AGI research through inclusive collaboration, mentorship, and community-driven innovation. We aim to make cutting-edge artificial general intelligence research accessible to all, fostering a diverse ecosystem where knowledge is freely shared.
+PathOnAI.org is a 501(c)(3) open-source non-profit organization with a mission to advance open-source development and AGI research through inclusive collaboration, mentorship, and community-driven innovation. We aim to make cutting-edge artificial general intelligence research accessible to all, fostering a diverse ecosystem where knowledge is freely shared.
 
 ## Join the community!
 <p align="left">
