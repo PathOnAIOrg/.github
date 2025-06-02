@@ -6,9 +6,9 @@ PathOnAI.org is a 501(c)(3) open-source non-profit organization with a mission t
     <a href="https://discord.gg/UTxjyNwTeP">
         <img src="https://dcbadge.limes.pink/api/server/UTxjyNwTeP" height="28"></a>
     <a href="https://github.com/PathOnAI?tab=followers">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/PathOnAI?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/PathOnAIOrg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <a href="https://github.com/PathOnAI?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/PathOnAI?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/PathOnAIOrg?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
 ## 1. Publications
