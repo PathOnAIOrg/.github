@@ -15,7 +15,8 @@ PathOnAI.org is a 501(c)(3) open-source non-profit organization with a mission t
 
 - **VisualTreeSearch: An Intuitive Interface for Understanding Web Agent Decision Processes**  
   📝 Danqing Zhang, Yaoyao Qian, Shiying He, Yuanli Wang, Jingyi Ni, Junyu Cao   
-  🔜 **[Under review]**
+  📄 **ECML-PKDD'25: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2025)**  
+  🔗 **[Paper]([https://arxiv.org/abs/2503.02950](https://www.researchgate.net/profile/Danqing-Zhang/publication/391739859_VisualTreeSearch_Understanding_Web_Agent_Test-time_Scaling/links/6825449bdf0e3f544f54797b/VisualTreeSearch-Understanding-Web-Agent-Test-time-Scaling.pdf))**
 - **Web Agent Evaluation Metrics**  
   📝 Shiying He, Yaoyao Qian, Danqing Zhang, Yuanli Wang  
   *(Paper title and author list may be modified)*  
