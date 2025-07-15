@@ -17,13 +17,6 @@ PathOnAI.org is a 501(c)(3) open-source non-profit organization with a mission t
   📝 Danqing Zhang, Yaoyao Qian, Shiying He, Yuanli Wang, Jingyi Ni, Junyu Cao   
   📄 **ECML-PKDD'25: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2025)**  
   🔗 **[Paper]([https://arxiv.org/abs/2503.02950](https://www.researchgate.net/profile/Danqing-Zhang/publication/391739859_VisualTreeSearch_Understanding_Web_Agent_Test-time_Scaling/links/6825449bdf0e3f544f54797b/VisualTreeSearch-Understanding-Web-Agent-Test-time-Scaling.pdf))**
-- **Web Agent Evaluation Metrics**  
-  📝 Shiying He, Yaoyao Qian, Danqing Zhang, Yuanli Wang  
-  *(Paper title and author list may be modified)*  
-  🔜 **[Work in progress]**
-- **LiteMultiAgent: The Library for LLM-based multi-agent applications**  
-  📝 Danqing Zhang, Jingyi NI   
-  🔜 **[Arxiv paper]**
 - **LiteWebAgent: The Open-Source Suite for VLM-Based Web-Agent Applications**  
   📝 Danqing Zhang, Balaji Rama, Jingyi Ni, Shiying He, Fu Zhao, Kunyu Chen, Arnold Chen, Junyu Cao  
   📄 **NAACL'25: 2025 Annual Conference of the North American Chapter of the Association for Computational Linguistics – System Demonstration Track**  
