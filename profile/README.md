@@ -24,8 +24,7 @@ PathOnAI.org is a 501(c)(3) open-source non-profit organization with a mission t
 
 ## 2. Current Projects
 
-- **[VisualTreeSearch](https://github.com/PathOnAI/VisualTreeSearch-Demo)**  
-  🌐 Understanding Web Agent Test-time Scaling.
+- in preparation
 
 ## 3. Past Projects
 - **[ARC AGI Experiments](https://github.com/PathOnAI/arc-agi-experiments)**  
