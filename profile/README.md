@@ -94,11 +94,11 @@ https://www.pathonai.org/ai-agent-projects/visualtreesearch
 ## Current projects
 
 ### AI Agents
-- **Lite Web Agent Tree Search** — enhancing web agents with tree search algorithms
-- **Generative Agent-Based Simulation** — multi-agent simulations powered by LLMs
+- **Agent Evaluation & Interpretability Tooling** — frameworks and systems for understanding, visualizing, and evaluating agent behavior at test time  
+- **Web Agent Reasoning & Search** — ongoing research on scaling inference-time reasoning, planning, and search for web-based agents
 
 ### Robotics & Embodied AI
-- **Vision-Language Grasping (SAM2 + GraspNet)** — language-guided robotic grasping
+- **Vision-Language Grasping (SAM3 + GraspNet)** — language-guided robotic grasping using state-of-the-art segmentation and grasp prediction
 - **Awesome Open-Source Robots** — curated robots with CAD, ROS2, and MuJoCo support
 
 ---
@@ -108,6 +108,7 @@ https://www.pathonai.org/ai-agent-projects/visualtreesearch
 - **LiteMultiAgent** — LLM-based multi-agent library  
 - **LiteWebAgent** — VLM-based web-agent applications  
 - **LiteGUIAgent** — VLM-based computer-control agent  
+- **VisualTreeSearch** — test-time tree search visualization for web agents  
 - **Awesome AI Agents** — curated resources on AI agents  
 - **Natural Language Terminal** — natural language → OS commands  
 - **ARC AGI Experiments** — advanced reasoning experiments  
