@@ -92,14 +92,8 @@ https://www.pathonai.org/ai-agent-projects/visualtreesearch
 ---
 
 ## Current projects
-
-### AI Agents
-- **Agent Evaluation & Interpretability Tooling** — frameworks and systems for understanding, visualizing, and evaluating agent behavior at test time  
-- **Web Agent Reasoning & Search** — ongoing research on scaling inference-time reasoning, planning, and search for web-based agents
-
 ### Robotics & Embodied AI
 - **Vision-Language Grasping (SAM3 + GraspNet)** — language-guided robotic grasping using state-of-the-art segmentation and grasp prediction
-- **Awesome Open-Source Robots** — curated robots with CAD, ROS2, and MuJoCo support
 
 ---
 
